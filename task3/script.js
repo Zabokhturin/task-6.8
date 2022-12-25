@@ -1,4 +1,6 @@
-const trafficLightEl = document.querySelector('#trafficLight');
+const trafficLightEl = document.querySelector('#trafficLight1');
+const trafficLightE2 = document.querySelector('#trafficLight2');
+const trafficLightE3 = document.querySelector('#trafficLight3');
 
 function makeRed() {
     trafficLightEl.style.background = ('Red');
